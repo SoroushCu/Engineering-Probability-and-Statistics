@@ -1,0 +1,5 @@
+First Name, Last Name, Age, Heigth, Weigth, Nationality
+alex * james * 25 * 190 * 84 * British
+sara * anderson * 20 * 160 * 98 * American
+roberto * carlos * 48 * 183 * 78 * Spanish
+mohammad * amiri * 35 * 190 * 77 * Iranian 
