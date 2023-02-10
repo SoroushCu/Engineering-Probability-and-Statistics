@@ -1,0 +1,198 @@
+ccode,country,number1000,percentarea,under18
+AFG,Afghanistan,134,0,40
+ALB,Albania,52,2,47
+DZA,Algeria,249,1,20
+AND,Andorra,41,53,7
+AGO,Angola,638,2,47
+AIA,Anguilla,6,37,22
+ATG,Antigua and Barbuda,29,28,11
+ARG,Argentina,2165,5,8
+ARM,Armenia,191,7,8
+AUS,Australia,7036,29,7
+AUT,Austria,1660,19,5
+AZE,Azerbaijan,259,3,11
+BHS,Bahamas,62,16,12
+BHR,Bahrain,723,48,14
+BGD,Bangladesh,1501,1,18
+BRB,Barbados,35,12,14
+BLR,Belarus,1079,11,3
+BEL,Belgium,1268,11,18
+BLZ,Belize,60,16,11
+BEN,Benin,253,2,26
+BTN,Bhutan,52,6,11
+BOL,Bolivia (Plurinational State of),149,1,32
+BIH,Bosnia and Herzegovina,37,1,17
+BWA,Botswana,166,7,23
+BRA,Brazil,736,0,14
+BRN,Brunei Darussalam,109,25,17
+BGR,Bulgaria,154,2,31
+BFA,Burkina Faso,709,4,21
+BDI,Burundi,300,3,28
+CPV,Cabo Verde,15,3,10
+KHM,Cambodia,76,0,9
+CMR,Cameroon,540,2,32
+CAN,Canada,7861,21,8
+CAF,Central African Republic,89,2,26
+TCD,Chad,490,3,36
+CHL,Chile,489,3,21
+CHN,China,1000,0,21
+COL,Colombia,142,0,31
+COM,Comoros,13,2,15
+COG,Congo,399,8,27
+CRI,Costa Rica,414,8,9
+CIV,C√¥te d'Ivoire,2197,9,14
+HRV,Croatia,560,13,4
+CUB,Cuba,13,0,9
+CYP,Cyprus,189,16,9
+CZE,Czechia,433,4,5
+PRK,Democratic People's Republic of Korea,49,0,18
+COD,Democratic Republic of the Congo,879,1,29
+DNK,Denmark,657,11,9
+DJI,Djibouti,116,12,21
+DMA,Dominica,7,9,36
+DOM,Dominican Republic,425,4,18
+ECU,Ecuador,399,2,34
+EGY,Egypt,478,0,16
+SLV,El Salvador,42,1,17
+GNQ,Equatorial Guinea,222,18,1
+ERI,Eritrea,16,0,24
+EST,Estonia,193,15,3
+SWZ,Eswatini,33,2,20
+ETH,Ethiopia,1227,1,43
+FJI,Fiji,14,2,19
+FIN,Finland,344,6,11
+FRA,France,7903,12,7
+GAB,Gabon,280,14,24
+GMB,Gambia,205,10,26
+GEO,Georgia,78,2,21
+DEU,Germany,12165,15,5
+GHA,Ghana,418,1,31
+GRC,Greece,1220,11,6
+GRD,Grenada,7,7,25
+GTM,Guatemala,82,0,20
+GIN,Guinea,123,1,31
+GNB,Guinea-Bissau,23,1,38
+GUY,Guyana,16,2,20
+HTI,Haiti,41,0,23
+VAT,Holy See,1,100,-
+HND,Honduras,39,0,18
+HUN,Hungary,504,5,11
+ISL,Iceland,42,12,14
+IND,India,5189,0,6
+IDN,Indonesia,346,0,27
+IRN,Iran (Islamic Republic of),2699,3,23
+IRQ,Iraq,367,1,13
+IRL,Ireland,807,17,14
+ISR,Israel,1962,24,7
+ITA,Italy,5907,10,7
+JAM,Jamaica,23,1,28
+JPN,Japan,2321,2,11
+JOR,Jordan,3234,33,45
+KAZ,Kazakhstan,3635,20,11
+KEN,Kenya,1079,2,38
+KIR,Kiribati,3,3,22
+KWT,Kuwait,3123,76,17
+KGZ,Kyrgyzstan,200,3,7
+LAO,Lao People's Democratic Republic,45,1,15
+LVA,Latvia,257,13,3
+LBN,Lebanon,1939,32,41
+LSO,Lesotho,7,0,17
+LBR,Liberia,99,2,29
+LBY,Libya,788,12,24
+LIE,Liechtenstein,25,65,13
+LTU,Lithuania,125,4,10
+LUX,Luxembourg,264,45,9
+MDG,Madagascar,34,0,18
+MWI,Malawi,237,1,22
+MYS,Malaysia,2704,9,10
+MDV,Maldives,67,15,5
+MLI,Mali,384,2,27
+MLT,Malta,46,11,7
+MHL,Marshall Islands,3,6,24
+MRT,Mauritania,168,4,37
+MUS,Mauritius,29,2,11
+MEX,Mexico,1224,1,60
+FSM,Micronesia (Federated States of),3,3,21
+MCO,Monaco,21,55,8
+MNG,Mongolia,18,1,11
+MNE,Montenegro,71,11,9
+MAR,Morocco,96,0,21
+MOZ,Mozambique,247,1,29
+MMR,Myanmar,75,0,19
+NAM,Namibia,95,4,13
+NRU,Nauru,4,33,20
+NPL,Nepal,503,2,10
+NLD,Netherlands,2057,12,7
+NZL,New Zealand,1067,23,10
+NIC,Nicaragua,41,1,32
+NER,Niger,296,1,36
+NGA,Nigeria,1235,1,48
+NIU,Niue,1,34,42
+NOR,Norway,799,15,11
+OMN,Oman,2073,45,5
+PAK,Pakistan,3398,2,5
+PLW,Palau,5,23,9
+PAN,Panama,191,5,10
+PNG,Papua New Guinea,32,0,32
+PRY,Paraguay,161,2,16
+PER,Peru,94,0,26
+PHL,Philippines,219,0,27
+POL,Poland,641,2,13
+PRT,Portugal,880,9,6
+QAT,Qatar,1721,65,14
+KOR,Republic of Korea,1152,2,5
+MDA,Republic of Moldova,140,3,17
+ROU,Romania,371,2,42
+RUS,Russian Federation,11652,8,6
+RWA,Rwanda,443,4,20
+KNA,Saint Kitts and Nevis,8,14,25
+LCA,Saint Lucia,13,7,27
+VCT,Saint Vincent and the Grenadines,5,4,33
+WSM,Samoa,5,2,40
+SMR,San Marino,5,16,12
+STP,Sao Tome and Principe,2,1,17
+SAU,Saudi Arabia,12185,37,20
+SEN,Senegal,266,2,24
+SRB,Serbia,802,9,3
+SYC,Seychelles,13,14,9
+SLE,Sierra Leone,95,1,30
+SGP,Singapore,2623,46,10
+SVK,Slovakia,185,3,12
+SVN,Slovenia,245,12,6
+SLB,Solomon Islands,3,0,19
+SOM,Somalia,45,0,34
+ZAF,South Africa,4037,7,16
+SSD,South Sudan,845,7,28
+ESP,Spain,5947,13,8
+LKA,Sri Lanka,40,0,36
+PSE,State of Palestine,254,5,14
+SDN,Sudan,736,2,31
+SUR,Suriname,48,8,30
+SWE,Sweden,1748,18,10
+CHE,Switzerland,2506,30,6
+SYR,Syrian Arab Republic,1014,6,17
+TJK,Tajikistan,273,3,6
+THA,Thailand,3589,5,14
+MKD,The former Yugoslav Republic of Macedonia,131,6,14
+TLS,Timor-Leste,12,1,18
+TGO,Togo,284,4,39
+TON,Tonga,5,5,28
+TTO,Trinidad and Tobago,50,4,17
+TUN,Tunisia,58,1,17
+TUR,Turkey,4882,6,26
+TKM,Turkmenistan,195,3,7
+TUV,Tuvalu,0,1,20
+UGA,Uganda,1692,4,27
+UKR,Ukraine,4964,11,5
+ARE,United Arab Emirates,8313,88,14
+GBR,United Kingdom of Great Britain and Northern Ireland,8842,13,8
+TZA,United Republic of Tanzania,493,1,21
+USA,United States of America,49777,15,5
+URY,Uruguay,80,2,19
+UZB,Uzbekistan,1159,4,8
+VUT,Vanuatu,3,1,24
+VEN,Venezuela (Bolivarian Republic of),1426,4,14
+VNM,Viet Nam,76,0,15
+YEM,Yemen,384,1,30
+ZMB,Zambia,157,1,18
+ZWE,Zimbabwe,404,2,13
